@@ -15,5 +15,5 @@ POSTECH 인공지능연구원 연구인턴 경험 정리
 ## 20.09.23
 - DAMAGE DETECTION OF TRUSS STRUCTURES BY ML
 ---
-## 20.09.24
+## 20.09.24~28
 - Development and application of a deep learning-based sparse autoencoder framework for structural damage identification
