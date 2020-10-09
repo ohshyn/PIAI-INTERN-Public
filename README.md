@@ -10,7 +10,7 @@ POSTECH 인공지능연구원 연구인턴 경험 정리
 ---
 ## 20.09.22
 - [A PoD(Probability of Damage) Prediction Monitoring System for Structure Safety based-on Deep Learning](./지진논문리뷰/지진가속도/A_PoD(Probability_of_Damage)_Prediction_Monitoring_System_for_Structure_Safety_based-on_Deep_Learning/2020.09.22.md)
-- [Structural Damage Detection with Automatic Feature-Extraction through Deep Learning](../지진논문리뷰/지진가속도/Structural_Damage_Detection_with_Automatic_Feature-Extraction_through_Deep_Learning/2020.09.22.md)
+- [Structural Damage Detection with Automatic Feature-Extraction through Deep Learning](./지진논문리뷰/지진가속도/Structural_Damage_Detection_with_Automatic_Feature-Extraction_through_Deep_Learning/2020.09.22.md)
 - [A novel unsupervised deep learning model](./지진논문리뷰/지진가속도/A_novel_unsupervised_deep_learning_model/2020.09.22.md)
 ---
 ## 20.09.23
